@@ -19,7 +19,7 @@ I’m hungry for experience — I’m looking for paid or volunteer projects whe
 
 ## 🔧 Experience & Projects
 
-* Completed **41 LeetCode** problems as part of my algorithm practice and problem-solving growth.
+* Completed **51 LeetCode** problems as part of my algorithm practice and problem-solving growth.
 * Developed projects and tools in **Roblox Studio** — building levels, game mechanics, and utility tools.
 * Experience developing game-related tools and modifications, including game hacks and **Roblox executors**. (I’m interested in applying these reverse-engineering and tooling skills in legitimate, ethical projects and learning environments.)
 
